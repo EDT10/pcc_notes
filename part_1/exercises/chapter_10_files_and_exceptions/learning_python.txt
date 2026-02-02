@@ -1,0 +1,4 @@
+In Python you can read and write to files.
+In Python you can working with lot of data.
+In Python you can create modules which can be used in other programs.
+In Python You can ask for users input and work with their information however you want.
